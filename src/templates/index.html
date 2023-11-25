@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block content %}
+    
+    <div class="container">
+
+        <div class="row text-center logo">
+            <div class="col-sm">
+                <img src="{{ url_for('static', path='images/icons8-fast-shopping-100.png') }}">
+            </div>
+        </div>
+
+        <div class="row my-5">
+            <div class="wrapper mx-auto">
+                <form class="input-group input-group-lg" method="get" action="{{ url_for('read_product') }}">
+                    <input type="text" class="form-control border-0 bg-light rounded" placeholder="Search Product" aria-label="Search" id="search-bar" name="q">
+                    <div class="input-group-append">
+                        <button id="search-button" type="submit" class="btn btn-link bg-light rounded"><i class="fa fa-search"></i></button>
+                    </div>                       
+                </form>
+                <div class="border-0 bg-light rounded">
+                  <!-- here list are inserted from javascript -->
+                  <div class="pb-1" id="auto-complete">
+                  </div>
+                </div>                                       
+            </div>
+        </div>
+        
+    </div>
+
+    <script type="text/javascript">
+        var suggestions = {{ product_list|safe }};
+    </script>
+    <script type="text/javascript" src="{{ url_for('static', path='js/search.js') }}"></script>
+
+{% endblock %}

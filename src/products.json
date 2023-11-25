@@ -1,0 +1,361 @@
+[{
+  "_id": {
+    "$oid": "5fecb47bb4dbd148d89f864e"
+  },
+  "name": "iPhone 7",
+  "ratings": "4.4",
+  "image_path": "images/products/apple/iphone-7.jpg",
+  "carousel": [
+    "images/carousel/apple/iphone-7/front.png",
+    "images/carousel/apple/iphone-7/back.png",
+    "images/carousel/apple/iphone-7/angle.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb50fb4dbd148d89f864f"
+  },
+  "name": "iPhone 11",
+  "ratings": "4.6",
+  "image_path": "images/products/apple/iphone-11.jpg",
+  "carousel": [
+    "images/carousel/apple/iphone-11/front.png",
+    "images/carousel/apple/iphone-11/back.png",
+    "images/carousel/apple/iphone-11/angle.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb5c1b4dbd148d89f8650"
+  },
+  "name": "iPhone 11 Pro",
+  "ratings": "4.5",
+  "image_path": "images/products/apple/iphone-11-pro.jpg",
+  "carousel": [
+    "images/carousel/apple/iphone-11-pro/front.png",
+    "images/carousel/apple/iphone-11-pro/back.png",
+    "images/carousel/apple/iphone-11-pro/angle.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb60fb4dbd148d89f8651"
+  },
+  "name": "iPhone 12 Mini",
+  "ratings": "4.4",
+  "image_path": "images/products/apple/iphone-12.jpg",
+  "carousel": [
+    "images/carousel/apple/iphone-12/front.png",
+    "images/carousel/apple/iphone-12/notch.png",
+    "images/carousel/apple/iphone-12/camera.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb62bb4dbd148d89f8652"
+  },
+  "name": "iPhone 12",
+  "ratings": "4.5",
+  "image_path": "images/products/apple/iphone-12.jpg",
+  "carousel": [
+    "images/carousel/apple/iphone-12/front.png",
+    "images/carousel/apple/iphone-12/notch.png",
+    "images/carousel/apple/iphone-12/camera.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb663b4dbd148d89f8653"
+  },
+  "name": "iPhone 12 Pro",
+  "ratings": "4.5",
+  "image_path": "images/products/apple/iphone-12-pro.jpg",
+  "carousel": [
+    "images/carousel/apple/iphone-12-pro/front.png",
+    "images/carousel/apple/iphone-12-pro/notch.png",
+    "images/carousel/apple/iphone-12-pro/camera.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb683b4dbd148d89f8654"
+  },
+  "name": "iPhone 12 Pro Max",
+  "ratings": "4.6",
+  "image_path": "images/products/apple/iphone-12-pro.jpg",
+  "carousel": [
+    "images/carousel/apple/iphone-12-pro/front.png",
+    "images/carousel/apple/iphone-12-pro/notch.png",
+    "images/carousel/apple/iphone-12-pro/camera.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb727b4dbd148d89f8655"
+  },
+  "name": "Pixel 4a",
+  "ratings": "4.7",
+  "image_path": "images/products/google/pixel-4a.jpg",
+  "carousel": [
+    "images/carousel/google/pixel-4a/front.png",
+    "images/carousel/google/pixel-4a/back.png",
+    "images/carousel/google/pixel-4a/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb754b4dbd148d89f8656"
+  },
+  "name": "Pixel 5",
+  "ratings": "4.6",
+  "image_path": "images/products/google/pixel-5.jpg",
+  "carousel": [
+    "images/carousel/google/pixel-5/back.png",
+    "images/carousel/google/pixel-5/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb7a1b4dbd148d89f8657"
+  },
+  "name": "Redmi 9",
+  "ratings": "4.6",
+  "image_path": "images/products/mi/redmi-9.jpg",
+  "carousel": [
+    "images/carousel/mi/redmi-9/front.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb7ccb4dbd148d89f8658"
+  },
+  "name": "Redmi 9A",
+  "ratings": "4.1",
+  "image_path": "images/products/mi/redmi-9a.jpg",
+  "carousel": [
+    "images/carousel/mi/redmi-9a/front.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb819b4dbd148d89f8659"
+  },
+  "name": "Redmi 9i",
+  "ratings": "3.7",
+  "image_path": "images/products/mi/redmi-9i.jpg",
+  "carousel": [
+    "images/carousel/mi/redmi-9i/front.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb85cb4dbd148d89f865a"
+  },
+  "name": "Redmi 9 Prime",
+  "ratings": "4.2",
+  "image_path": "images/products/mi/redmi-9-prime.jpg",
+  "carousel": [
+    "images/carousel/mi/redmi-9-prime/front.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb885b4dbd148d89f865b"
+  },
+  "name": "Redmi Note 9",
+  "ratings": "4.5",
+  "image_path": "images/products/mi/redmi-note-9.jpg",
+  "carousel": [
+    "images/carousel/mi/redmi-note-9/front.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb8bbb4dbd148d89f865c"
+  },
+  "name": "Redmi Note 9 Pro",
+  "ratings": "4.5",
+  "image_path": "images/products/mi/redmi-note-9-pro.jpg",
+  "carousel": [
+    "images/carousel/mi/redmi-note-9-pro/front.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb8ceb4dbd148d89f865d"
+  },
+  "name": "Redmi Note 9 Pro Max",
+  "ratings": "4.1",
+  "image_path": "images/products/mi/redmi-note-9-pro-max.jpg",
+  "carousel": [
+    "images/carousel/mi/redmi-note-9-pro-max/front.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb971b4dbd148d89f865e"
+  },
+  "name": "OnePlus 7T",
+  "ratings": "4.7",
+  "image_path": "images/products/oneplus/oneplus-7t.jpg",
+  "carousel": [
+    "images/carousel/oneplus/oneplus-7t/front.png",
+    "images/carousel/oneplus/oneplus-7t/back.png",
+    "images/carousel/oneplus/oneplus-7t/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb9beb4dbd148d89f865f"
+  },
+  "name": "OnePlus 7T Pro",
+  "ratings": "4.4",
+  "image_path": "images/products/oneplus/oneplus-7t-pro.jpg",
+  "carousel": [
+    "images/carousel/oneplus/oneplus-7t-pro/front.png",
+    "images/carousel/oneplus/oneplus-7t-pro/back.png",
+    "images/carousel/oneplus/oneplus-7t-pro/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecb9f8b4dbd148d89f8660"
+  },
+  "name": "OnePlus 8",
+  "ratings": "4.3",
+  "image_path": "images/products/oneplus/oneplus-8.jpg",
+  "carousel": [
+    "images/carousel/oneplus/oneplus-8/front.png",
+    "images/carousel/oneplus/oneplus-8/back.png",
+    "images/carousel/oneplus/oneplus-8/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecba2cb4dbd148d89f8661"
+  },
+  "name": "OnePlus 8 Pro",
+  "ratings": "4.3",
+  "image_path": "images/products/oneplus/oneplus-8-pro.jpg",
+  "carousel": [
+    "images/carousel/oneplus/oneplus-8-pro/front.png",
+    "images/carousel/oneplus/oneplus-8-pro/back.png",
+    "images/carousel/oneplus/oneplus-8-pro/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecba72b4dbd148d89f8662"
+  },
+  "name": "OnePlus 8T",
+  "ratings": "4.2",
+  "image_path": "images/products/oneplus/oneplus-8t.jpg",
+  "carousel": [
+    "images/carousel/oneplus/oneplus-8t/front.png",
+    "images/carousel/oneplus/oneplus-8t/angle.png",
+    "images/carousel/oneplus/oneplus-8t/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecbabeb4dbd148d89f8663"
+  },
+  "name": "OnePlus Nord",
+  "ratings": "4.4",
+  "image_path": "images/products/oneplus/oneplus-nord.jpg",
+  "carousel": [
+    "images/carousel/oneplus/oneplus-nord/front.png",
+    "images/carousel/oneplus/oneplus-nord/back.png",
+    "images/carousel/oneplus/oneplus-nord/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecbe15b4dbd148d89f8664"
+  },
+  "name": "Galaxy Note 20",
+  "ratings": "4.1",
+  "image_path": "images/products/samsung/galaxy-note20.jpg",
+  "carousel": [
+    "images/carousel/samsung/galaxy-note20/front.png",
+    "images/carousel/samsung/galaxy-note20/back.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecbebab4dbd148d89f8665"
+  },
+  "name": "Galaxy S20",
+  "ratings": "4.5",
+  "image_path": "images/products/samsung/galaxy-s20.jpg",
+  "carousel": [
+    "images/carousel/samsung/galaxy-s20/front.png",
+    "images/carousel/samsung/galaxy-s20/back.png",
+    "images/carousel/samsung/galaxy-s20/side.png",
+    "images/carousel/samsung/galaxy-s20/angle.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecbefdb4dbd148d89f8666"
+  },
+  "name": "Galaxy S20 Ultra",
+  "ratings": "4.5",
+  "image_path": "images/products/samsung/galaxy-s20-ultra.jpg",
+  "carousel": [
+    "images/carousel/samsung/galaxy-s20-ultra/front.png",
+    "images/carousel/samsung/galaxy-s20-ultra/back.png",
+    "images/carousel/samsung/galaxy-s20-ultra/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecbf79b4dbd148d89f8667"
+  },
+  "name": "Galaxy Z Flip",
+  "ratings": "3.7",
+  "image_path": "images/products/samsung/galaxy-z-flip.jpg",
+  "carousel": [
+    "images/carousel/samsung/galaxy-z-flip/front.png",
+    "images/carousel/samsung/galaxy-z-flip/back.png",
+    "images/carousel/samsung/galaxy-z-flip/side.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecbfe3b4dbd148d89f8668"
+  },
+  "name": "Galaxy Z Fold2",
+  "ratings": "4.6",
+  "image_path": "images/products/samsung/galaxy-z-fold2.jpg",
+  "carousel": [
+    "images/carousel/samsung/galaxy-z-fold2/front.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecc03bb4dbd148d89f8669"
+  },
+  "name": "Galaxy Note 20 Ultra",
+  "ratings": "4.4",
+  "image_path": "images/products/samsung/galaxy-note20.jpg",
+  "carousel": [
+    "images/carousel/samsung/galaxy-note20/front.png",
+    "images/carousel/samsung/galaxy-note20/back.png"
+  ],
+  "abstract_review": "Good phone."
+},{
+  "_id": {
+    "$oid": "5fecc067b4dbd148d89f866a"
+  },
+  "name": "Galaxy S20+",
+  "ratings": "4.5",
+  "image_path": "images/products/samsung/galaxy-s20.jpg",
+  "carousel": [
+    "images/carousel/samsung/galaxy-s20/front.png",
+    "images/carousel/samsung/galaxy-s20/back.png",
+    "images/carousel/samsung/galaxy-s20/side.png",
+    "images/carousel/samsung/galaxy-s20/angle.png"
+  ],
+  "abstract_review": "Good phone."
+}]

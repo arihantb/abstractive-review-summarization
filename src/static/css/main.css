@@ -1,0 +1,136 @@
+/*Review Page Style*/
+
+h2, p, a, .navbar-brand, .product-title, .rating-title, .rating, .text-italic, .card-title {
+	font-family: 'Poppins', sans-serif;
+}
+
+p {
+	font-size: 20px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 48px;
+}
+
+.product-title {
+	font-weight: bolder;
+	font-size: 64px;
+}
+
+.rating-title {
+	font-weight: normal;
+	font-size: 36px;
+}
+
+.rating {
+	font-weight: bold;
+	font-size: 48px;
+}
+
+.gold-star {
+	color: #ffb404;
+}
+
+.grey-star {
+	color: lightgrey;
+}
+
+.rounded-border {
+	border-radius: 10px;
+}
+
+.text-italic {
+	font-size: 22px;
+	font-style: italic;
+	font-weight: 300;
+}
+
+.carousel-control-next, .carousel-control-prev{
+    filter: invert(100%);
+}
+
+/*End Review Page Style*/
+
+/*Index Page Style*/
+
+.form-control:focus, .btn-link:focus {
+  box-shadow: none;
+}
+
+.form-control::placeholder {
+  font-size: 20px;
+  color: #aaa;
+}
+
+.fa-search {
+	color: #aaa;
+}
+
+.logo {
+	margin-top: 150px;
+}
+
+.selected {
+	background-color: #E8E8E8;
+}
+
+li {
+	list-style: none;
+	font-size: 20px;
+	padding: 5px 5px 5px 16px;
+	cursor: pointer;
+}
+
+/*End Index Page Style*/
+
+/*Card Style*/
+
+.card {
+	border-radius: 20px;
+}
+
+.card-bg-light {
+	background-color: #f5f5f5;
+}
+
+.card-title {
+	font-size: 24px;
+	font-weight: bolder;
+}
+
+.learn-more:hover {
+	text-decoration: none;
+}
+
+.card-img-top {
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+
+/*End Card Style*/
+
+
+/*Global Style*/
+
+.fa-chevron-left {
+	color: black;
+}
+
+/*End Global Style*/
+
+/*Custom Scrollbar*/
+
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: lightgrey;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: grey;
+}
+
+/*End Custom Scrollbar*/
